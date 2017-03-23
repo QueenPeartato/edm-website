@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Raleway');
+
+nav {
+  background-color: rgba(0,0,0,0.5);
+  font-family: 'Raleway', sans-serif;
+}
+body {
+  background: url("http://weknowyourdreams.com/images/tree/tree-01.jpg") no-repeat center fixed;
+}
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 500%;
+  text-shadow: 3px 3px #000000;
+}
+p {
+  font-family: 'Playfair Display', serif;
+}
+ul {
+	width: 100%;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+}
+li {
+  padding: 0 20px;
+  margin: auto;
+  align: center;
+  display: block;
+}
+a {
+  font-size: 200px;
+}
